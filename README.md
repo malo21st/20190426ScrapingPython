@@ -7,4 +7,5 @@ https://tech-cafe.connpass.com/event/125469/<br>
 - スクレイピング：Python
 - 正規表現：エディタ
 - 可視化：エクセル
+
 でしたが、すべてPythonにしました。
