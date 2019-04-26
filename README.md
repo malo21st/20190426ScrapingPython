@@ -9,4 +9,4 @@ https://tech-cafe.connpass.com/event/125469/<br>
 - 正規表現：エディタ
 - 可視化：エクセル
 
-でしたが、すべてPythonにしました。
+でしたが、すべてPythonでやってみました。
