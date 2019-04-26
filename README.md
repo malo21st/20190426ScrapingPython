@@ -1,0 +1,2 @@
+# 20190426ScrapingPython
+PythonによるWebスクレイピング入門 の成果物
